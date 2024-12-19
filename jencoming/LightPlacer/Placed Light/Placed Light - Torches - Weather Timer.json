@@ -1,0 +1,52 @@
+[
+   {
+  "addonNodes": [ 231, 122, 123, 7, 227 ],
+  "lights": [
+    {
+      "whiteList": [ 
+        "clutter\\common\\removabletorch01.nif",
+        "clutter\\common\\torchpermanent01.nif",
+        "clutter\\common\\torchsconce01.nif" 
+      ],
+      "data": {
+        "light": "DefaultTorch01NS",
+        "radius": 512.0,
+        "fade": 1.0,
+        "conditions": [
+          
+         "Self IsInInterior NONE NONE == 1 AND"
+        
+        ]
+      }                           
+    }
+  ]
+},
+  {
+    "addonNodes": [ 231, 122, 123, 7, 227 ],
+    "lights": [
+      {
+        "whiteList": [ 
+          "clutter\\common\\removabletorch01.nif",
+          "clutter\\common\\torchpermanent01.nif",
+          "clutter\\common\\torchsconce01.nif",
+          "weapons\\torch\\torch.nif" 
+        ],
+        "data": {
+          "light": "DefaultTorch01NS",
+          "radius": 512.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale|SyncAddonNodes",
+          "conditions": [
+            
+            "Self IsInInterior NONE NONE == 0 AND",
+            "Self IsRaining NONE NONE == 0 AND",
+            "Self IsCloudy NONE NONE == 1 OR",
+            "Self GetCurrentTime NONE NONE >= 19.00 OR",
+             "Self GetCurrentTime NONE NONE <= 6.00 OR"
+          
+          ]
+        }                           
+      }
+    ]
+  }
+]

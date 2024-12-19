@@ -1,0 +1,367 @@
+ {
+    "models": [
+      "clutter\\soulgem\\soulgemcommon_full.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 4.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgemcommon01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 2.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgemgrand01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 2.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgemgrand_full.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 5.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgemgreater_full.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 4.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgemgreater01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 2.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgemlesser_full.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -2.5
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius":7.0,
+          "fade": 5.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgemlesser_full.nif"
+    ],
+    "lights": [
+      {
+        "points": [  
+          [ 0.0, 0.0, 7.0 ]
+      ],
+      "data": {
+        "light": "MagicLightWhite01",
+        "radius": 6.0,
+        "fade": 7.0,
+        "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgemlesser01.nif"
+    ],
+    "lights": [
+      {
+        "points": [  
+            [ 0.0, 0.0, -4.0 ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 2.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgempetty_full.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 10.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgempetty01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 2.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgempiece01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 4.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgempiece02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 4.0,
+          "fade": 15.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgempiece03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 4.0,
+          "fade": 15.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgempiece04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 4.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "clutter\\soulgem\\soulgempiece05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 10.0,
+          "fade": 4.0,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "plants\\floradeathbell01.nif",
+      "plants\\floradeathbell02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "nocturnallight",
+          "radius": 32.0,
+          "fade": 0.7,
+          "flags": "Simple|IgnoreScale"
+        }
+      }
+    ]
+  },

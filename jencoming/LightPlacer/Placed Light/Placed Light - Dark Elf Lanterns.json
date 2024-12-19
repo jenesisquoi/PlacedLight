@@ -1,0 +1,390 @@
+[
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflantern01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -195.000000
+          ],
+          [
+            -30.000000,
+            -1.000000,
+            -285.000000
+          ],
+          [
+            5.000000,
+            190.000000,
+            -235.000000
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflantern02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -160.000000
+          ],
+          [
+            0.0,
+            -140.000000,
+            -135.000000
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflantern03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -160.000000
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflantern04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -125.000000
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflantern05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -85.000000
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflantern06.nif"
+    ],
+    "lights": [
+      {
+        "nodes": [
+          "Object09"
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflanternstatic01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -195.000000
+          ],
+          [
+            -30.000000,
+            -1.000000,
+            -285.000000
+          ],
+          [
+            5.000000,
+            190.000000,
+            -235.000000
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflanternstatic02.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -160.000000
+          ],
+          [
+            0.0,
+            -140.000000,
+            -135.000000
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflanternstatic03.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -160.000000
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflanternstatic04.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -125.000000
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflanternstatic05.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -85.000000
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflanternstatic06.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            -40.000000
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "addonNodes": [
+      49
+    ],
+    "lights": [
+      {
+        "whiteList": [
+          "dlc02\\clutter\\dlc2darkelflantern01.nif",
+          "dlc02\\clutter\\dlc2darkelflantern02.nif",
+          "dlc02\\clutter\\dlc2darkelflantern03.nif",
+          "dlc02\\clutter\\dlc2darkelflantern04.nif",
+          "dlc02\\clutter\\dlc2darkelflantern05.nif",
+          "dlc02\\clutter\\dlc2darkelflantern06.nif",
+          "dlc02\\clutter\\dlc2darkelflanternstatic01.nif",
+          "dlc02\\clutter\\dlc2darkelflanternstatic02.nif",
+          "dlc02\\clutter\\dlc2darkelflanternstatic03.nif",
+          "dlc02\\clutter\\dlc2darkelflanternstatic04.nif",
+          "dlc02\\clutter\\dlc2darkelflanternstatic05.nif",
+          "dlc02\\clutter\\dlc2darkelflanternstatic06.nif"
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models": [
+      "0DV_BOSLanterns\\0DVDarkElfLantern01Basket.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern01Butterflies.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern01Floral.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern01Flowers.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern01Leafy.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern01Mandala.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern01Vines.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern01Weave.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern02Basket.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern02Butterflies.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern02Floral.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern02Flowers.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern02Leafy.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern02Mandala.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern02Vines.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern02Weave.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern03Basket.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern03Butterflies.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern03Floral.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern03Flowers.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern03Leafy.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern03Mandala.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern03Vines.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern03Weave.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern04Basket.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern04Butterflies.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern04Floral.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern04Flowers.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern04Leafy.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern04Mandala.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern04Vines.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern04Weave.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern05Basket.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern05Butterflies.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern05Floral.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern05Flowers.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern05Leafy.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern05Mandala.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern05Vines.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern05Weave.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern06Basket.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern06Butterflies.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern06Floral.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern06Flowers.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern06Leafy.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern06Mandala.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern06Vines.nif",
+      "0DV_BOSLanterns\\0DVDarkElfLantern06Weave.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "data": {
+          "light": "Candle",
+          "radius": 128.0,
+          "fade": 1.0,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  }
+]
